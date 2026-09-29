@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Subham Pandit
 
-<!--
-**subhampandit20004-creator/subhampandit20004-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) Student  
+💻 Java • Python • AI/ML • MERN  
+🧠 Currently learning DSA & building real-world projects
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in software development,
+artificial intelligence, and machine learning.
+
+I enjoy learning by building projects and exploring new technologies.
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java
+- Python
+- C
+
+**Technologies**
+- AI / Machine Learning
+- Generative AI
+- MERN Stack
+- SQL
+- Git & GitHub
+
+## 📌 Featured Project
+
+### Huffman File Zipper
+
+A Java-based lossless file compression and decompression tool using
+Huffman Coding and LZ77 algorithms.
+
+🔗 Check it out in my repositories.
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- MERN Stack
+- AI Engineering
+- Generative AI
+
+---
+
+### 💡 My Goal
+
+> Keep learning. Keep building. Keep improving. 🚀
