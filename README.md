@@ -13,6 +13,6 @@ Hello, I'm Subham Pandit, a pre-final-year B.Tech student specializing in Comput
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=subhampandit-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=subhampandit-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 |Code. Learn. Build. Repeat. |
